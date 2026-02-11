@@ -1,4 +1,4 @@
-﻿package com.bardales.examenparcialapi.entity;
+package com.bardales.examenparcialapi.entity;
 
 import java.math.BigDecimal;
 

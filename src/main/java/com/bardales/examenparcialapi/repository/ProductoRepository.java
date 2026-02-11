@@ -1,4 +1,4 @@
-﻿package com.bardales.examenparcialapi.repository;
+package com.bardales.examenparcialapi.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,4 +1,4 @@
-﻿package com.bardales.examenparcialapi.controller;
+package com.bardales.examenparcialapi.controller;
 
 import java.util.List;
 
